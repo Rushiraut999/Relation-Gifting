@@ -72,7 +72,7 @@
         
         /* Hero Section */
         .hero {
-            background:  url('THumbnail1.png');
+            background:  url('THumbnail1.jpg');
             background-size: cover;
             background-position: center;
             height: 400px;
@@ -511,5 +511,6 @@ section {
             }
 
         }
+
 
 
