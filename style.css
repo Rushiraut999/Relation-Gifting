@@ -428,6 +428,32 @@
         
         /* Responsive Styles */
         @media (max-width: 768px) {
+         .hero {
+    background: url(/Assets/bg//THumbnail1.png);
+    background-size: cover;
+    background-position: center;
+    height: 106px;
+    width: 401px;
+    color: #fff;
+    text-align: center;
+     padding: 0px!important; 
+}
+.btn {
+    display: inline-block;
+    background-color: #d4af37;
+    color: #fff;
+    padding: 6px 6px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: background-color 0.3s;
+    position: relative;
+    top: 71px;
+    font-size: 13px;
+}
+section {
+     padding:  0px!important; 
+}
             .header-container {
                 flex-direction: column;
                 text-align: center;
@@ -485,3 +511,4 @@
             }
 
         }
+
