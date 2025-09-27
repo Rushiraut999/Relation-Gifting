@@ -72,7 +72,7 @@
         
         /* Hero Section */
         .hero {
-            background:  url('/Assets/bg//THumbnail1.png');
+            background:  url('THumbnail1.png');
             background-size: cover;
             background-position: center;
             height: 400px;
@@ -483,4 +483,5 @@
             nav ul li {
                 margin: 10px 0;
             }
+
         }
